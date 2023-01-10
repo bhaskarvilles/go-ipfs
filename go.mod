@@ -17,7 +17,7 @@ require (
 	github.com/ipfs/go-bitswap v0.6.0
 	github.com/ipfs/go-block-format v0.0.3
 	github.com/ipfs/go-blockservice v0.3.0
-	github.com/ipfs/go-cid v0.1.0
+	github.com/ipfs/go-cid v0.2.0
 	github.com/ipfs/go-cidutil v0.0.2
 	github.com/ipfs/go-datastore v0.5.1
 	github.com/ipfs/go-detect-race v0.0.1
@@ -55,13 +55,13 @@ require (
 	github.com/ipfs/go-path v0.2.2
 	github.com/ipfs/go-pinning-service-http-client v0.1.0
 	github.com/ipfs/go-unixfs v0.3.1
-	github.com/ipfs/go-unixfsnode v1.1.3
+	github.com/ipfs/go-unixfsnode v1.5.1
 	github.com/ipfs/go-verifcid v0.0.1
 	github.com/ipfs/interface-go-ipfs-core v0.6.0
 	github.com/ipfs/tar-utils v0.0.2
 	github.com/ipld/go-car v0.3.2
-	github.com/ipld/go-codec-dagpb v1.3.0
-	github.com/ipld/go-ipld-prime v0.14.2
+	github.com/ipld/go-codec-dagpb v1.4.1
+	github.com/ipld/go-ipld-prime v0.16.0
 	github.com/jbenet/go-random v0.0.0-20190219211222-123a90aedc0c
 	github.com/jbenet/go-temp-err-catcher v0.1.0
 	github.com/jbenet/goprocess v0.1.4
@@ -74,7 +74,7 @@ require (
 	github.com/libp2p/go-libp2p-kad-dht v0.15.0
 	github.com/libp2p/go-libp2p-kbucket v0.4.7
 	github.com/libp2p/go-libp2p-loggables v0.1.0
-	github.com/libp2p/go-libp2p-mplex v0.4.1
+	github.com/libp2p/go-libp2p-mplex v0.5.0
 	github.com/libp2p/go-libp2p-noise v0.3.0
 	github.com/libp2p/go-libp2p-peerstore v0.4.0
 	github.com/libp2p/go-libp2p-pubsub v0.6.0
@@ -98,7 +98,7 @@ require (
 	github.com/multiformats/go-multihash v0.1.0
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/stretchr/testify v1.7.1
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/whyrusleeping/go-sysinfo v0.0.0-20190219211824-4a357d4b90b1
@@ -107,9 +107,9 @@ require (
 	go.uber.org/dig v1.14.1
 	go.uber.org/fx v1.16.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211025112917-711f33c9992c
+	golang.org/x/sys v0.0.0-20220429233432-b5fbb4746d32
 )
 
 go 1.16
